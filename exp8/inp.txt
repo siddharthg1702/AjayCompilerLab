@@ -1,0 +1,18 @@
+while(1<2)
+{
+	if(a<b)
+	{
+		if(a<b)
+		{
+			a = a+b;
+		}
+		else
+		{
+			
+		}
+	}
+	else
+	{
+		a = a-b;
+	}
+}
